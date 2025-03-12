@@ -1,0 +1,2 @@
+# WeCare
+Helping Needy Students
